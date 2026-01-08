@@ -56,8 +56,9 @@ while not valid:
 		for _ in range (9):
 			print(generate_xr_scene())
 	else: 
-		print('You can try typing: asasd')
+		print('You can try typing: Cyborgs, people with cyber parts, flying vehicles, floating roads, immersive, crowded, quiet, romantic, touristy, desertic, colorful')
 	
+
 
 
 
